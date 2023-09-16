@@ -17,7 +17,7 @@
 
 
 
-![logo](https://cdn.discordapp.com/attachments/1098969636306960465/1152401209815220284/fbanner.png)
+![logo](https://i.imgur.com/5MZ9Vxt.jpg)
 
 
 **Selamat datang di +62 Radio Bot! 🎶**
