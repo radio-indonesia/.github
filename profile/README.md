@@ -10,7 +10,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/radio-indonesia?label=Follow&style=social)](https://github.com/radio-indonesia)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/WFfjrQxnfH)](https://discord.gg/WFfjrQxnfH)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/LRMN)
+<p align="center"> 
+  <a href="https://discord.gg/WFfjrQxnfH" target="_blank"> <img src="https://discordapp.com/api/guilds/1088032923443277824/widget.png?style=banner2"/> </a> 
+</p>
+
 
 ## Thanks to 
 [![Deploy Button](https://cdn.hop.io/assets/deploy-button/button.svg)](https://console.hop.io/deploy-button)
@@ -52,5 +55,7 @@ Tambahkan +62 Radio Bot ke server Anda hari ini dan nikmati suasana yang lebih c
 **Undang Bot Sekarang:** [+62 Radio](https://discord.com/oauth2/authorize?client_id=1090120136167538748&permissions=551940254784&redirect_uri=https%3A%2F%2F62radio.is-a.fun%2Fthankyou&response_type=code&scope=guilds.join%20bot%20applications.commands)
 
 **Prefix default:** r.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/LRMN)
 
 *Catatan: Pastikan bot ini memiliki izin yang diperlukan untuk berfungsi dengan baik di server Anda.*
